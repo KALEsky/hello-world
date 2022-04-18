@@ -1,2 +1,2 @@
 # hello-world
-My first repository of GitHub, sad:(, because I know NOTHING!!!
+It told me to use readme branch, but I don't know the meaning what it is?!
